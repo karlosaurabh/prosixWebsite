@@ -1,0 +1,25 @@
+/* CSS Document */
+
+@font-face
+{
+	font-family:lobster;
+	src:url(../fonts/Lobster_1.3.otf);
+}
+
+@font-face
+{
+	font-family:roboto_regular;
+	src:url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face
+{
+	font-family:lato-bold;
+	src:url(../fonts/Lato-Bold.ttf);
+}
+
+@font-face
+{
+	font-family:ptsans-regular;
+	src:url(../fonts/PTS55F.ttf);
+}
